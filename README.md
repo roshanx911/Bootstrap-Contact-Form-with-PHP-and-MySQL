@@ -1,4 +1,4 @@
-# Bootstrap-Contact-Form-with-PHP-and-MySQL
+## Bootstrap PopUp/Modal Contact-Form with PHP and MySQL
 
 [Download the Source-Code](https://github.com/roshanx911/Bootstrap-Contact-Form-with-PHP-and-MySQL/archive/master.zip)
 
